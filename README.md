@@ -10,4 +10,8 @@ For the SDL to transmit waves to the transmitters, there must be a straight lime
 Trasmitters must also be at a higher ground for maximum wave coverage.
 
 ## Task
+- Obtain a cross-section of Location A - Chepsir
+- Obtain a cross section of Location A - Chebewor
+
+### Workflow
 
