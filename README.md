@@ -12,11 +12,15 @@ Trasmitters must also be at a higher ground for maximum wave coverage.
 ## Task
 - Obtain a cross-section of Location A - Chepsir
 - Obtain a cross section of Location A - Chebewor
+- Make a Digital Elevation Model of the area
+- Get contours
+
 
 ### Workflow
 Softwares used:
   - Google Earth Pro
   - ArcGIS ArcMap
+  
 The folowing workflow was implemented:
   - Zoom in to the location area in Google Earth
   - Digitize points randomly in the locations
