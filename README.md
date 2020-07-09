@@ -14,4 +14,10 @@ Trasmitters must also be at a higher ground for maximum wave coverage.
 - Obtain a cross section of Location A - Chebewor
 
 ### Workflow
-
+Softwares used:
+  - Google Earth Pro
+  - ArcGIS ArcMap
+The folowing workflow was implemented:
+  - Zoom in to the location area in Google Earth
+  - Digitize points randomly in the locations
+  - Draw a straight line of sight from location A to the transmitter locations
